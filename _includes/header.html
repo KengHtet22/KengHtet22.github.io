@@ -18,19 +18,21 @@
 
         <style>
             .text-1, .text-2, .text-3 {
-                font-size: 1.8em;
                 margin: 0;
                 padding: 0;
                 box-sizing: border-box;
                 font-family: 'Roboto', sans-serif;
                 text-decoration: none;
                 outline: none;
-                display: block;
             };
+
+            .text-1 {
+                font-size: 1.8em;
+            }
 
             .text-2 {
                 font-size: 5.5em;
-            }
+            };;
 
             .text-3 {
                 font-size: 2.5em;
@@ -39,12 +41,17 @@
 
             .typing-1 {
                 color: blueviolet;
-            }
+            };
+
+            .header-text {
+                display: block;
+                text-align: left;
+            };
 
         </style>
-        <div class="text-1">Hello, my name is</div>
-        <div class="text-2">{{ site.title }}</div>
-        <div class="text-3">And I'm a <span class="text-2 typing-1"></span></div>
+        <div class="header-text text-1">Hello, my name is</div>
+        <div class="header-text text-2">{{ site.title }}</div>
+        <div class="header-text text-3">And I'm a <span class="text-3 typing-1"></span></div>
 
         {% include social-links.html %}
     </header>
