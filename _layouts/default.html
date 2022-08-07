@@ -41,7 +41,8 @@ layout: compress
     </style>
 
 </head>
-<body>
+<body style="background-image: url('/assets/images/background.jpg');background-repeat: no-repeat;background-size: cover;"
+>
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.layout == "post" %}
             <div class="post">
@@ -59,4 +60,5 @@ layout: compress
             </div>
     </div>
 </body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
 </html>
