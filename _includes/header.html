@@ -16,9 +16,30 @@
             </span>
         {% endif %}
 
-        <h2 class="description">Hello, my name is</h2>
-        <h1 class="title">{{ site.title }}</h1>
-        <h2 class="description">And I'm a </h2><span class="description typing-1"></span>
+        <style>
+            .text-1, .text-2, .text-3 {
+                font-size: 1.8em;
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                font-family: 'Roboto', sans-serif;
+                text-decoration: none;
+                outline: none;
+            };
+
+            .text-2 {
+                font-size: 5.5em;
+            }
+
+            .text-3 {
+                font-size: 2.5em;
+                margin: 5px 0;
+            }
+
+        </style>
+        <span class="text-1">Hello, my name is</span>
+        <span class="text-1">{{ site.title }}</span>
+        <span class="text-1">And I'm a </span><span class="text-2 typing-1"></span>
 
         {% include social-links.html %}
     </header>
