@@ -36,10 +36,14 @@
                 margin: 5px 0;
             }
 
+            .typing-1 {
+                color: blueviolet;
+            }
+
         </style>
-        <span class="text-1">Hello, my name is</span>
-        <span class="text-1">{{ site.title }}</span>
-        <span class="text-1">And I'm a </span><span class="text-2 typing-1"></span>
+        <div class="text-1">Hello, my name is</div>
+        <div class="text-2">{{ site.title }}</div>
+        <div class="text-3">And I'm a <span class="text-2 typing-1"></span></div>
 
         {% include social-links.html %}
     </header>
