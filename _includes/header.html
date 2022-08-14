@@ -18,37 +18,43 @@
 
         <style>
             .text-1 {
-                font-size: 1.8em;
-            };
+                font-size: 1.4em;
+                color: white;
+            }
 
             .text-2 {
-                font-size: 5.5em;
-            };
+                font-size: 4.4em;
+                color: white;
+            }
 
             .text-3 {
-                font-size: 2.5em;
+                font-size: 2em;
                 margin: 5px 0;
-            };
+                color: white;
+            }
 
             .typing-1 {
-                color: blueviolet;
-            };
+                color: #00ffff;
+            }
 
             .header-text {
                 display: block;
-                text-align: left;
+                text-align: center;
                 margin: 0;
                 padding: 0;
                 box-sizing: border-box;
                 font-family: 'Roboto', sans-serif;
                 text-decoration: none;
                 outline: none;
-            };
+            }
 
         </style>
-        <div class="header-text text-1">Hello, my name is</div>
-        <div class="header-text text-2">{{ site.title }}</div>
-        <div class="header-text text-3">And I'm a <span class="text-3 typing-1"></span></div>
+
+        <div style="margin: auto; width: 50%; margin-bottom: 50px;">
+            <div class="header-text text-1">Hello, my name is</div>
+            <div class="header-text text-2">Kaung</div>
+            <div class="header-text text-3" style="text-align: left;">And I'm a <span class="typing-1" style="font-size: 1em"></span></div>
+        </div>
 
         
         {% include social-links.html %}
