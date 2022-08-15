@@ -8,7 +8,7 @@ description: A blog about engineering related stuff and some other interesting s
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: /assets/images/Me-at-Czech-Switzerland-cropped.JPG
+picture: /assets/images/Me-at-Czech-Switzerland-cropped.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: /assets/Kaung Htet Zaw.pdf
 
-url: https://kaung.cz
+url: https://KengHtet22.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -46,7 +46,7 @@ authors:
     name: Kaung Htet Zaw
     bio: Mechanical Engineering Student
     external-image: false
-    picture: /assets/images/Me-at-Czech-Switzerland-cropped.JPG
+    picture: /assets/images/Me-at-Czech-Switzerland-cropped.jpg
     #twitter: johndoe
   #jamesfoster:
   #  name: James Foster
