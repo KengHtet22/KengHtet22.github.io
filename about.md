@@ -4,42 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My name is Kaung Htet Zaw and I am born in Yangon, Myanmar on 22nd November 1999. I attended primary school until year 5 at Practising High School, Yangon University of Education, which is better known as TTC. In 2010, my whole family moved to Malaysia specifically Kuching, Sarawak, which is in East Malaysia, as my father managed to get a contract to work there. That was my first time going on a plane and it was to go overseas to another country! I had to learn to adapt to new surroundings and learn new culture and language, Bahasa Melayu. I was always very shy to speak in English when I was in Myanamr, but this move really forced me to start using English a lot and become fluent with it. I first moved to a primary school called Sekolah Kebangsaan (SK) Batu Lintang and then moved on to the secondary school, Sekolah Menengah Kebangsaan (SMK) Batu Lintang, where I managed to finish Form 5 which is equal to 11 years of study and took the Sijil Pelajaran Malaysia (SPM), which is the Malaysian Certificate of Education Examination and is equilavent to GCSE O Levels, in 2016. I got all A's except Bahasa Melayu, which I got B+. During my time in SMK Batu Lintang, I was appointed many leadership positions such as becoming a prefect and head of Scouts uniform group. It was all thanks to being able to get along with many people, being humble and helpful. Before I took the SPM exam, my father's contract couldn't extend so he had to go back to Myanmar and my mom stayed with me in Malaysia until I finished the exam.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>After taking the exam, I had to go back to Myanmar and took a gap year to learn German in Goethe Institut Myanmar. I managed to get B1 Zertifikat in a time span of 9 months attending intensive courses. In that time, I was planning to go to Germany and study my Bachelor in German to get the free education. However, when I applied to Germany, I was rejected because I only had Form 5 and I need to have Form 6 which is equivalent to GCE A Levels. I had to look for other options and I ended up getting accepted by Czech Technical University in Prague (ČVUT) in Czech Republic. I chose to study in Czech Republic because of its inexpensive living expenses, high safeness and the fact that it is right in the center of Europe. Again, I have to adapt to a new country and learn to be independent. I had to learn how to cook and manage my expenses. I am currently studying Bachelor of Mechanical Engineering in ČVUT and am in the last year of study. In my free time, I like to play football, try new sports, go for walks around the beautiful streets of Prague and play video games with friends.</p>
 
-<h2>Skills</h2>
+<p>During my stay in Czech Republic, I worked part-time in a hotel called Miss Sophie's New Town. I started as part of the breakfast team but I was trained to be a recpetionist after some time. It was my first ever job and I got to experience the work life for the first time. Learning to deal with different people and balancing work and study. I am currently in the rocket team in my university called CTU Space Research, where we are working to build a rocket for a competition called EUROC. Our rocket need to go up 3-5 km high, carrying a payload and land properly with a parachute. I am in the Structure team and we are responsible to design and test everything structure related to the rocket.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>The purpose of this website is to showcase what I have done throughout my life. It is still new so I am still working on it and will be adding more contents. The Blog part is mostly for intersting things I have done and the Porjects part is for my technical related activities.</p>
