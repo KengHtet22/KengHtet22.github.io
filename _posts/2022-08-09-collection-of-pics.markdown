@@ -14,3 +14,6 @@ description: Collection of pictures taken by me that I really love!
 
 The purpose of this page is to just showcase some of the pictures I took that I really love.
 
+<img src="/assets/images/Mandalay-Palace.jpg">
+
+<img src="/assets/images/Cesky-Krumlov.JPG">
