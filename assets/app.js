@@ -1,7 +1,7 @@
 $(document).ready(function(){
     var typed = new Typed(".typing-1",{
         strings: [
-            "Engineer", "Designer", "Maker"
+            "Engineer", "Maker"
         ],
         typeSpeed: 100,
         backSpeed: 60,
